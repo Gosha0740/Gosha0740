@@ -3,6 +3,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=Gosha0740" alt="Gosha0740" />
 
+[![Github last commit date](https://img.shields.io/github/last-commit/JustArchiNET/ArchiSteamFarm.svg?label=Updated&logo=github&cacheSeconds=600)](https://github.com/JustArchiNET/ArchiSteamFarm/commits)
+[![Total downloads](https://img.shields.io/github/downloads/JustArchiNET/ArchiSteamFarm/total.svg?label=Downloads&logo=github&cacheSeconds=600)](https://github.com/JustArchiNET/ArchiSteamFarm/releases)
+
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
