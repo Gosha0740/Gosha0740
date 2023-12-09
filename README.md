@@ -16,7 +16,12 @@
 
 <table>
   <tr>
-![Alt](https://repobeats.axiom.co/api/embed/ea5aeeb401d70627e481de8bc0ca14fe8673e474.svg "Repobeats analytics image")
+  ---
+
+[![Repobeats analytics image](https://repobeats.axiom.co/api/embed/ea5aeeb401d70627e481de8bc0ca14fe8673e474.svg "Repobeats analytics image")](https://github.com/Gosha0740/Gosha0740/pulse)
+
+---
 
   </tr>
 </table>
+
