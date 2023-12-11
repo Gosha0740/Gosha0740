@@ -14,3 +14,4 @@
     </tr>
 </table>
 
+<img src="https://lanyard.cnrad.dev/api/270452768634830849">
