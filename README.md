@@ -13,9 +13,4 @@
     </td>
     </tr>
 </table>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gosha0740&show_icons=true&theme=transparent">
-
 <img src="https://lanyard.cnrad.dev/api/270452768634830849">
-1
