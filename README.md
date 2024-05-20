@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-<img src="https://komarev.com/ghpvc/?username=Gosha0740" alt="Gosha0740" />
+<img src="https://komarev.com/ghpvc/?username=Gosha0740&style=for-the-badge" alt="Gosha0740" />
 
 <table>
   <tr>
